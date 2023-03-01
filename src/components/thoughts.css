@@ -1,13 +1,13 @@
 *{
     animation-timing-function: linear;
-
 }
+
 .home{
     /*background-image: linear-gradient(to right top, #434343, #373739, #2c2c2f, #212125, #16171c, #111218, #0a0c13, #01040e, #01040e, #01040e, #01040e, #01040e);*/
     /*width: 90%;*/
     padding-left: 10px;
     position: relative;
-    margin-bottom: 8rem;
+    /*background: pink;*/
 }
 
 .home .mini-card-grid {
@@ -53,7 +53,6 @@
 .popular-articles {
     box-sizing: content-box;
     display: flex;
-    margin: 0 0 3rem 0;
     position: relative;
 }
 
